@@ -6,8 +6,8 @@
 
 ## Informações gerais:
 
-https://reqres.in/ - Documentação
-URI = https://reqres.in/api/
+* https://reqres.in/ - Documentação
+* URI = https://reqres.in/api/
 
 ## Avaliação:
 ### 1 - Realizar ao menos um script de cobertura de testes em Rest-Assured da API 
@@ -24,7 +24,9 @@ Foi utilizada a técnica “Operator Coverage” para verificação da cobertura
 ##### Cálculo:
 * QtdAut/ QtdTot = 7/15 = 0,47
 ```
+
 Ou seja, 47% dos testes de operação estão cobertos pela automação de testes.
+
 ```
 
 ## Estruturação do Projeto:
@@ -45,6 +47,9 @@ Executar pela IDE de sua preferência o arquivo:
 ```
 Suite.java                                     # Suite de teste para quando há login de cliente ao entrar no site
 ```
+## Execução dos testes:
+
+![image](https://user-images.githubusercontent.com/49051123/116794905-26ac0480-aaa7-11eb-9c21-bf64ae2837b7.png)
 
 ## Tecnologia:
 
