@@ -11,7 +11,7 @@
 
 ## Avaliação:
 ### 1 - Realizar ao menos um script de cobertura de testes em Rest-Assured da API 
-[Projeto Automação API](https://github.com/LuisFelipeSeabra/prova_renner/tree/master/AutomationProject)
+[Projeto Automação API](https://github.com/LuisFelipeSeabra/ReqresAPI/tree/master/ReqresAPI)
 
 
 ### 2 - Escrever a tecnica utilizada para cobertura do cenário de testes utilizado
