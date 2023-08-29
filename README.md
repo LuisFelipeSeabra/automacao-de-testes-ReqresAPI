@@ -1,7 +1,7 @@
 # Bem-vindo ao desafio
 
 <div align="center">
-  <img src="https://credenciamentodigital.getnet.com.br/assets/img/269c8ccd8dca4060be3846282431968f.png" width="300px"/>
+  <img src="https://devqa.io/assets/images/rest-assured-get-post-put-patch-delete.png" width="300px"/>
 </div>
 
 ## Informações gerais:
